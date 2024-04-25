@@ -5,8 +5,8 @@
 **Моё образование:**
 
 * Окончил бакалавриат и магистратуру Московского Физико-Технического Института по направлению прикладных математики и физики.
-* Завешил ряд специализаций на Coursera по направлениям Java, Android, Python, Machine Learning, Deep Learning.
-* Курс по SQL от Stepik.
+* Завершил ряд специализаций на Coursera по направлениям Java, Android, Python, Machine Learning, Deep Learning.
+* Прошёл курс по SQL от Stepik.
 * Окончил буткемп по DataScience от Яндекс Практикума. 
 
 
